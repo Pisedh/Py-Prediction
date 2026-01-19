@@ -21,8 +21,8 @@ import csv
 class Config:
     """Global configuration"""
     # Telegram Settings (Optional)
-    TELEGRAM_BOT_TOKEN = "8500042413:AAEA3qDZahuKkeN1d0rzxCp5-SBYtNKKjgY"
-    TELEGRAM_CHAT_ID = "7157377604"
+    TELEGRAM_BOT_TOKEN = ""
+    TELEGRAM_CHAT_ID = ""
     TELEGRAM_ENABLED = False  # Set to True to enable
     
     # Alert Settings
